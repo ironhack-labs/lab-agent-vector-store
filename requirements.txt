@@ -1,0 +1,12 @@
+# Python 3.10+ recommended for this notebook
+
+langchain>=1.0
+langchain-community>=0.4.1
+langchain-openai>=1.2.1
+langchain-text-splitters==1.1.2
+langchain-classic==1.0.7
+chromadb==1.5.2
+openai==2.36.0
+tiktoken==0.12.0
+python-dotenv==1.2.2
+beautifulsoup4==4.14.3
