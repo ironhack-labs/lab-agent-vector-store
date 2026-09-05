@@ -1,0 +1,7 @@
+Python Club handbook — fictional teaching dataset created for this lab.
+
+The Python Club meets on Wednesdays at 18:00 in Room 204. Members bring a laptop and a small Python project.
+
+Before submitting a project, members must remove unused imports and sort imports. The club currently uses Flake8 for linting and isort for import sorting. The club wants fewer separate tools in its workflow.
+
+Project submissions include a README, the Python source files, and a short explanation of one bug fixed during the session. The club mentor reviews submissions on Fridays.
