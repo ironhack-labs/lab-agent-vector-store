@@ -1,0 +1,7 @@
+Ruff reference — a short paraphrase of official documentation.
+Source: https://docs.astral.sh/ruff/
+Retrieved: 2026-09-05. This is a small curated reference, not the full documentation.
+
+Ruff is a Python linter and formatter implemented in Rust. It combines functionality from tools including Flake8 and isort. It supports pyproject.toml configuration and caches unchanged files.
+
+Ruff can automatically fix some lint problems, including removing unused imports. It includes import-sorting functionality that can replace isort. Ruff emphasizes fast checks and an integrated interface.
