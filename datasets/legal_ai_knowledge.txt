@@ -1,0 +1,25 @@
+
+LEGAL AI KNOWLEDGE BASE
+
+Document review:
+AI systems can assist lawyers by identifying clauses,
+extracting relevant information, and comparing contracts.
+
+Contract analysis:
+AI-assisted contract analysis can identify payment terms,
+termination clauses, confidentiality obligations, and
+potentially inconsistent provisions.
+
+Retrieval-Augmented Generation:
+RAG combines document retrieval with language generation.
+A retriever identifies relevant document passages, while
+a language model uses those passages to generate answers.
+
+Human oversight:
+AI-generated legal analysis should be reviewed by qualified
+professionals before being used in legal decisions.
+
+Confidentiality:
+Legal AI systems must handle client information carefully.
+Access controls, secure storage, and appropriate data
+processing safeguards are important considerations.
