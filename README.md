@@ -12,6 +12,22 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 
 - Downloaded notebook with your responses to each of the exercises.
 
+### Completed lab notebooks
+
+- `demo-run.ipynb`: runnable adaptation of the original demo using the 2022
+  speech and the included Ruff FAQ snapshot. The supplied demo is unchanged.
+- `solution.ipynb`: separate Shakespeare sonnets workflow, including direct
+  questions, dependent multi-hop retrieval, source evidence, regression checks,
+  and the `return_direct=True` comparison.
+
+From the project root, install `requirements-solution.txt` and save
+`OPENAI_API_KEY=...` in `.env` (ignored by git). Open either notebook and run all
+cells, or run `python run_notebooks.py` to execute and save both. Execution calls
+OpenAI and incurs API usage. Do not include your API key in a notebook.
+
+`python build_solution.py` rebuilds both notebooks from source and clears saved
+outputs; run `python run_notebooks.py` afterward to restore executed results.
+
 
 ## Submission
 
