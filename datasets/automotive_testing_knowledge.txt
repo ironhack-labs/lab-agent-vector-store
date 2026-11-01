@@ -1,0 +1,13 @@
+Automotive Software Testing Knowledge Base
+
+CAN (Controller Area Network) is a message-based communication bus used by automotive electronic control units (ECUs). CANoe is a Vector tool for analyzing, simulating, and testing in-vehicle networks. CAPL is a scripting language used with CANoe for test automation.
+
+UDS (Unified Diagnostic Services) is a diagnostic protocol commonly used to read diagnostic trouble codes, request ECU information, and perform diagnostic routines.
+
+Hardware-in-the-loop (HIL) testing connects a real ECU to a simulated vehicle environment to validate behavior before full vehicle integration. dSPACE systems and Vector VT System hardware can be used for test benches.
+
+ADAS (Advanced Driver Assistance Systems) includes functions such as adaptive cruise control and lane keeping assistance. ADAS testing covers normal, boundary, and failure scenarios.
+
+Regression testing checks whether previously working functionality still behaves correctly after changes. Python and pytest can automate regression suites, and Jenkins can run them in CI pipelines.
+
+Ruff is a Python linting and formatting tool. An automotive test team can use Ruff to check Python pytest test scripts before Jenkins runs automated regression tests.
